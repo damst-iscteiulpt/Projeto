@@ -5,6 +5,7 @@ public class Teste {
 		int p;
 		p = 1 + 1;
 		System.out.println(p);
+		System.out.println(p);
 	}
 
 }
